@@ -2,24 +2,24 @@
     "users": [
         {
             "id": 1,
-            "name": "Savio Silva",
+            "nome": "Savio Silva",
             "email": "savio.silva@example.com"
         },
         {
             "id": 2,
-            "name": "Mariana",
+            "nome": "Mariana",
             "email": "mariana@example.com"
         }
     ],
     "products": [
         {
             "id": 1,
-            "name":"Mouse Óptico",
+            "nome":"Mouse Óptico",
             "valor": 99.99
         },
         {
             "id": 2,
-            "name": "Teclado Mecânico",
+            "nome": "Teclado Mecânico",
             "valor": 999.99
         }
     ]
