@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Savio Silva",
+            "email": "savio.silva@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Mariana",
+            "email": "mariana@example.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name":"Mouse Óptico",
+            "valor": 99.99
+        },
+        {
+            "id": 2,
+            "name": "Teclado Mecânico",
+            "valor": 999.99
+        }
+    ]
+}
